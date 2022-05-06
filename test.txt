@@ -1,0 +1,12 @@
+
+
+firingMode=SINGLE, both bays have torpedos
+
+firingMode=SINGLE, first bay empty second is not empty- return true
+
+firingMode=SINGLE, first bay not empty second is empty- return true
+
+firingMode=SINGLE, both bays are empty -return false
+
+firingMode=SINGLE, both bays have one torpedo, fire twice - return true twice
+
